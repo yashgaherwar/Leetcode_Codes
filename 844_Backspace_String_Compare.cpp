@@ -37,7 +37,7 @@ class Solution {
 public:
     
     // Approach 1: Using String.
-    // Approach 2: Can also be solve using Stack;
+    // Approach 2: Can also be solved using Stack;
     
     bool backspaceCompare(string s, string t) {
         string s_new,t_new;
