@@ -36,7 +36,9 @@ The tests are generated such that there is exactly one solution.
 
 /* Solution */
 
-// Two Pointer
+// Two Pointer Approach
+// Time Complexity:- O(N)
+// Space Complexity:- O(N)
 
 class Solution {
 public:
