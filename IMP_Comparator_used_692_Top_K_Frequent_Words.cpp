@@ -34,8 +34,8 @@ Follow-up: Could you solve it in O(n log(k)) time and O(n) extra space?
 class Solution {
 public:
     
-    // Map, Priority Queue Approach
-    // IMPORTANT:- Comparator is used in Priority Queue
+    // Map, Priority Queue Approach.
+    // IMPORTANT:- Comparator(Lambda Function) is used in Priority Queue.
     
     vector<string> topKFrequent(vector<string>& words, int k) {
         
