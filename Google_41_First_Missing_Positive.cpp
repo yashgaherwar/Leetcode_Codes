@@ -33,7 +33,7 @@ public:
     int firstMissingPositive(vector<int>& nums) {
         
         // Time Complexity:- O(N)
-        // space Complexity:- O(N)
+        // Space Complexity:- O(N)
         
         set<int> s;
         
