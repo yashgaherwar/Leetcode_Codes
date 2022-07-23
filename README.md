@@ -1,5 +1,5 @@
 # Leetcode_Codes ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-All Codes are written by Yash Gaherwar.
+All Codes were written by Yash Gaherwar.
 
 - Collection of Leetcode Questions solved by me for cracking Coding Interviews.
 - This Repo contains all the Important Leetcode questions with their solutions in a well structured manner.
