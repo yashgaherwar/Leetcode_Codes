@@ -30,6 +30,10 @@ nums[i] != nums[i + 1] for all valid i.
 
 /* Solution */
 
+// Binary Search Approach
+// Time Complexity:- O(logN)
+// Space Complexity:- O(1)
+
 class Solution {
 public:
     int findPeakElement(vector<int>& nums) {
