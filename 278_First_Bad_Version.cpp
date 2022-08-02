@@ -24,7 +24,7 @@ Output: 1
 
 Constraints:
 
-1 <= bad <= n <= 231 - 1
+1 <= bad <= n <= 2^31 - 1
 
 */
 
@@ -37,7 +37,6 @@ class Solution {
 public:
     
     // Binary Search Approach
- 
     // Time Complexity:- O(logn)
     // Space Complexity:- O(1)
     
