@@ -44,7 +44,7 @@ class MinStack {
 public:
     
     // Time Complexity:- O(1)
-    // Space Complexity:- O(1)
+    // Space Complexity:- O(N)
     
     stack<int> st1;
     stack<int> st2;
