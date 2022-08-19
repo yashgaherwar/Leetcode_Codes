@@ -31,7 +31,7 @@ class Solution {
 public:
     
     //Priority Queue and Map Approach!!
-    //Time Complexity:- O(N)
+    //Time Complexity:- O(N*logN)
     //Space Complexity:- O(N)
   
     int minSetSize(vector<int>& arr) {
