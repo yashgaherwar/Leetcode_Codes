@@ -23,8 +23,8 @@ So the minimum time needed for all buses to complete at least 5 trips is 3.
 Example 2:
 
 Input: time = [2], totalTrips = 1
-Output: 2
 
+Output: 2
 Explanation:
 There is only one bus, and it will complete its first trip at t = 2.
 So the minimum time needed to complete 1 trip is 2.
