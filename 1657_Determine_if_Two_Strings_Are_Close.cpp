@@ -42,6 +42,9 @@ word1 and word2 contain only lowercase English letters.
 
 /* Solution */
 
+// Time Complexity:- O(N)
+// Space Complexity:- O(N)
+
 class Solution {
 public:
     bool closeStrings(string word1, string word2) {
