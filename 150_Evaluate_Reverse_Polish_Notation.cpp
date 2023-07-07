@@ -44,6 +44,9 @@ tokens[i] is either an operator: "+", "-", "*", or "/", or an integer in the ran
 
 /* Solution */
 
+// Time Complexity:- O(N)
+// Space Complexity:- O(N)
+
 class Solution {
 public:
     int evalRPN(vector<string>& tokens) {
