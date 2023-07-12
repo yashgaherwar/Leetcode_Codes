@@ -12,7 +12,9 @@ Return true if n is a happy number, and false if not.
 Example 1:
 
 Input: n = 19
+
 Output: true
+
 Explanation:
 12 + 92 = 82
 82 + 22 = 68
@@ -22,6 +24,7 @@ Explanation:
 Example 2:
 
 Input: n = 2
+
 Output: false
 
 Constraints:
