@@ -71,11 +71,8 @@ public:
 
             for(auto j: arr[i]){
                 mp[j-'a']--;
-            }
-
-            
-        }
-       
+            }   
+        } 
     }
     int maxLength(vector<string>& arr) {
         fun(arr,0,arr.size());
