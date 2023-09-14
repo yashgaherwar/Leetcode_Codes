@@ -30,9 +30,6 @@ fromi != toi
 
 */
 
-/*
-
-
 class Solution {
 public:
     vector<string> ans;
@@ -60,6 +57,3 @@ public:
         return ans;
     }
 };
-
-
-*/
